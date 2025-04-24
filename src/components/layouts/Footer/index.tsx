@@ -35,7 +35,7 @@ const Footer: FC<FooterProps> = ({}) => {
 						height={36}
 					/>
 					<div className="text-muted mt-8">
-						Great platform for the job seeker that <br />
+						Great platform for the job seeker that are<br />
 						passionate about startups. Find your dream job <br />
 						easier.
 					</div>

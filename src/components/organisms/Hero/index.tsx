@@ -20,7 +20,7 @@ const Hero: FC<HeroProps> = ({}) => {
 					className="mb-5"
 				/>
 				<div className="text-muted-foreground text-lg">
-					Great platform for the job seeker that searching for <br />
+					Great platform for the job seeker that are searching for <br />
 					new career heights and passionate about startups.
 				</div>
 				<FormSearch />
