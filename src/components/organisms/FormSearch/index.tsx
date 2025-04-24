@@ -46,7 +46,7 @@ const FormSearch: FC<FormSearchProps> = ({}) => {
 			</div>
 			<div>
 				<div className="text-muted-foreground mt-3">
-					Popular : UI Designer, UX Researcher, Android, Admin
+					Popular : Frontend Developer, UI/UX Designer, Full Stack Developer
 				</div>
 			</div>
 		</>
