@@ -36,7 +36,7 @@ const Footer: FC<FooterProps> = ({}) => {
 					/>
 					<div className="text-muted mt-8">
 						Great platform for the job seeker that are<br />
-						passionate about startups. Find your dream job <br />
+						passionate about technology. Find your dream job <br />
 						easier.
 					</div>
 				</div>

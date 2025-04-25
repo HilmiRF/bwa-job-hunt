@@ -21,7 +21,7 @@ const Hero: FC<HeroProps> = ({}) => {
 				/>
 				<div className="text-muted-foreground text-lg">
 					Great platform for the job seeker that are searching for <br />
-					new career heights and passionate about startups.
+					new career heights and passionate about technology.
 				</div>
 				<FormSearch />
 			</div>
