@@ -1,6 +1,5 @@
 "use client"
 
-
 import TitleSection from "@/components/atoms/TitleSection";
 import React, { FC } from "react";
 import JobItem from "./JobItem";
@@ -10,7 +9,7 @@ import { JobType } from "@/types";
 interface LatestJobsProps {}
 
 const LatestJobs: FC<LatestJobsProps> = ({}) => {
-	const { jobs, isLoading, error } = useFeaturedJobs();
+	const { jobs } = useFeaturedJobs();
 
 	return (
 		<div className="py-16 mt-32 mb-10 relative">
